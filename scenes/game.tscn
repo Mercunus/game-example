@@ -177,16 +177,16 @@ libraries = {
 autoplay = "move"
 
 [node name="Coin" parent="." instance=ExtResource("4_lbhrr")]
-position = Vector2(216, 20)
+position = Vector2(216, 13)
 
 [node name="Coin2" parent="." instance=ExtResource("4_lbhrr")]
-position = Vector2(88, -32)
+position = Vector2(87, -31)
 
 [node name="Coin3" parent="." instance=ExtResource("4_lbhrr")]
-position = Vector2(274, -86)
+position = Vector2(277, -83)
 
 [node name="Coin4" parent="." instance=ExtResource("4_lbhrr")]
-position = Vector2(480, -29)
+position = Vector2(484, -26)
 
 [node name="Coin5" parent="." instance=ExtResource("4_lbhrr")]
-position = Vector2(416, -177)
+position = Vector2(415, -179)
